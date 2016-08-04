@@ -41,7 +41,7 @@ module.exports = function(grunt) {
           commitMessage: 'gh-pages push'
         },
         // The folder where your gh-pages repo is
-        src: '_ghpages'
+        src: 'app'
       }
     },
     jshint: {
